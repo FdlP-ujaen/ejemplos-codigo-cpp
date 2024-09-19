@@ -4,6 +4,7 @@
  * @date 19-sep-2024
  * @desc Ejemplo de código que contiene conceptos explicados en el tema 2
  *       Al final del código, puede verse la salida que deberíamos obtener en pantalla.
+ *       Disponible en https://github.com/FdlP-ujaen/ejemplo-codigo-tema-2/blob/main/codigo-tema-2.cpp
 */
 
 #include <iostream>
