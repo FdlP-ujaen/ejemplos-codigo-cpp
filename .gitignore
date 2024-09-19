@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+codigo-tema-2
+.idea/modules.xml
+.idea/vcs.xml
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.idea/.gitignore
+.idea/ejemplo-codigo-tema-2.iml
