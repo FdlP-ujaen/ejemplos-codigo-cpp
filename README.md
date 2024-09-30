@@ -1,3 +1,3 @@
-# Ejemplo de código para el tema 2
+# Ejemplo de código de ejercicios en C++ para la asignatura de Fundamentos de la Programación
 
-Incluye los distintos elementos que se ven en dicho tema.
+* **código-tema-2.cpp** Incluye los distintos elementos que se ven en el tema 2 de tipos de datos básicos.
